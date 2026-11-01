@@ -1,0 +1,6 @@
+{
+  "name": "Backyard Barista",
+  "description": "Your personal specialty coffee companion: craft custom recipes, follow expert brew guides, discover recommendations, and keep a coffee journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
